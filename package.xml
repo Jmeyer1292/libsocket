@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>libsocket</name>
+  <version>0.0.0</version>
+  <description>
+    libsocket is a library with a C part and a C++ part making sockets usage easy and clean.
+  </description>
+
+  <maintainer email="jmeyer@todo.todo">jmeyer</maintainer>
+  <author email="lbo@spheniscida.de">dermesser</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
